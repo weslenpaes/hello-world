@@ -1,2 +1,2 @@
-"# Ol† Mundo!" 
-Seja bem-vindo ao meu reposit¢rio! Este Ç meu primeiro commit. 
+"# Ol√° Mundo!" 
+Seja bem-vindo ao meu repositorio! Este o meu primeiro commit. 
